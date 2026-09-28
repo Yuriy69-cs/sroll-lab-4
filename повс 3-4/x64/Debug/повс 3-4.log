@@ -1,0 +1,3 @@
+﻿  scrolldemo.cpp
+C:\Users\yrii_\source\repos\повс 3-4\повс 3-4\scrolldemo.cpp(56,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  повс 3-4.vcxproj -> C:\Users\yrii_\source\repos\повс 3-4\x64\Debug\повс 3-4.exe
